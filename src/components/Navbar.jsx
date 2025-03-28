@@ -18,6 +18,7 @@ function Navbar() {
             <Link to="/profile">Profile</Link>
             <Link to="/dashboard">Dashboard</Link>
             <Link to="/stock">Stock</Link>
+            <Link to="/backtest">Backtest</Link>
             <Link to="/login">Login</Link>
             <Link to="/status">Status</Link>
             <button onClick={handleLogout}>Logout</button>
